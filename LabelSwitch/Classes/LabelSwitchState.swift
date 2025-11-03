@@ -5,7 +5,7 @@
 //  Created by cookie on 2018/7/28.
 //
 
-import Foundation
+import UIKit
 
 struct LabelSwitchPartState {
     var backMaskFrame: CGRect = .zero
